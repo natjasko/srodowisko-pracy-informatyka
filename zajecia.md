@@ -16,4 +16,5 @@ ostatni teskt
   tutaj też może być kod
   ```
 
-  [tutaj jest link](https://moodle2.e-wsb.pl/course/view.php?id=209612)
+[tutaj jest link](https://moodle2.e-wsb.pl/course/view.php?id=209612)
+![opis obrazka](dog.jpg)
