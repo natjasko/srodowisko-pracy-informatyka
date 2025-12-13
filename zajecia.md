@@ -20,6 +20,16 @@ ostatni teskt
 
 ![opis obrazka](dog.jpg)
 
-1.First
-2.Second
-3.Third
+1. First
+2. Second
+3. Third
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+Do zrobienia: 
+- [ ] zadanie 1
+- [x] zadanie 2
+
