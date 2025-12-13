@@ -33,3 +33,22 @@ Do zrobienia:
 - [ ] zadanie 1
 - [x] zadanie 2
 
+```mermaid
+flowchart TD
+    A[Start] --> B[Etap 1]
+    B --> C[Etap 2]
+```
+```mermaid
+flowchart TD
+    START --> ETAP1
+    ETAP1 --> ETAP2
+    ETAP2 --> STOP
+```
+
+
+```mermaid
+flowchart LR
+    A[Start] --> B[Etap 1]
+    B --> C[Etap 2]
+    C --> D[Stop]
+```
