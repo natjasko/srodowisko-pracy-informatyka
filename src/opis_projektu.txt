@@ -1,1 +1,7 @@
+Aplikacja do zarządzania czasem
 
+Celem projektu jest zaprojektowanie i wykonanie aplikacji informatycznej służącej do efektywnego zarządzania czasem użytkownika. Aplikacja ma wspierać planowanie codziennych zadań, monitorowanie postępów oraz poprawę produktywności poprzez lepszą organizację obowiązków.
+
+Projektowana aplikacja umożliwia użytkownikowi tworzenie list zadań, ustalanie priorytetów, określanie terminów realizacji oraz przypisywanie czasu trwania poszczególnym czynnościom. System pozwala również na edycję, usuwanie i oznaczanie zadań jako wykonane. Dodatkowo aplikacja oferuje funkcję przypomnień, które pomagają użytkownikowi pamiętać o ważnych terminach.
+
+Aplikacja będzie posiadała intuicyjny i przejrzysty interfejs użytkownika, dostosowany do urządzeń mobilnych lub komputerów (w zależności od założeń projektu). Dane użytkownika będą zapisywane w bazie danych, co umożliwi ich trwałe przechowywanie oraz synchronizację pomiędzy sesjami.
