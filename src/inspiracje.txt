@@ -1,1 +1,20 @@
+Rosnąca potrzeba organizacji czasu
+Współczesny tryb życia, nauki i pracy wymaga skutecznych narzędzi do planowania i kontroli codziennych obowiązków.
 
+Popularne aplikacje do zarządzania zadaniami
+Inspiracją są rozwiązania takie jak Todoist, Microsoft To Do, TickTick czy Google Calendar, które pokazują znaczenie prostoty, funkcjonalności i przejrzystego interfejsu.
+
+Sprawdzone metody zarządzania czasem
+Wykorzystanie elementów metod takich jak GTD, technika Pomodoro, macierz Eisenhowera czy zasada Pareto w celu lepszego planowania i ustalania priorytetów.
+
+Problemy użytkowników z produktywnością
+Częste odkładanie zadań na później, zapominanie o terminach oraz trudności w planowaniu dnia stanowią istotną inspirację do stworzenia aplikacji.
+
+Rozwój technologii mobilnych i webowych
+Możliwość tworzenia aplikacji dostępnych na różnych urządzeniach, z funkcją synchronizacji danych i powiadomień w czasie rzeczywistym.
+
+Potrzeba monitorowania postępów
+Inspiracją jest chęć umożliwienia użytkownikowi śledzenia wykonanych zadań oraz analizy własnej efektywności.
+
+Minimalistyczny i intuicyjny interfejs użytkownika
+Nacisk na prostą obsługę i czytelność, aby aplikacja była przyjazna dla użytkowników w różnym wieku.
