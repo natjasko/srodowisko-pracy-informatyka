@@ -15,5 +15,5 @@ Aplikacja będzie zawierała:
 - możliwość oznaczania zadań jako ukończone
 - proste statystyki postępu w nauce
 
-### Celem projektu jest zwiększenie przejrzystości zadań oraz poprawa systematyczności nauki.
+ ### 📍 Celem projektu jest zwiększenie przejrzystości zadań oraz poprawa systematyczności nauki.
 
