@@ -1,1 +1,22 @@
-
+START
+  |
+  v
+[Uruchom aplikację]
+  |
+  v
+[Wyświetl listę zadań]
+  |
+  v
+[Czy użytkownik chce dodać zadanie?]
+  |           |
+  | TAK       | NIE
+  v           v
+[Dodaj zadanie]   [Zobacz plan tygodnia]
+  |                   |
+  v                   v
+[Zapisz]         [Wyświetl statystyki]
+  |                   |
+  +---------+---------+
+            |
+            v
+          STOP
