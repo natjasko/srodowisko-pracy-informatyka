@@ -1,4 +1,4 @@
-### Diagram przepływu
+# Diagram przepływu
 
 ```mermaid
 flowchart TD
